@@ -21,9 +21,9 @@ My curiosity extends to the cosmos, where I am fascinated by deep space and the 
 
 ## 📊 GitHub Stats
 
-![Tarunbir's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarunbir&show_icons=true&theme=radical)
+![Tarunbir's GitHub stats](https://github-readme-stats.vercel.app/api?username=gambiTarun&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunbir&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gambiTarun&layout=compact&theme=radical)
 
 ## 📫 Contact Me
 
