@@ -16,7 +16,7 @@ Beyond technology, I am profoundly interested in philosophy and the fundamental 
 - "I think, therefore I am." – René Descartes
 - "The only true wisdom is in knowing you know nothing." – Socrates
 
-My curiosity extends to the cosmos, where I am fascinated by deep space and the origins of the universe. I am driven by the quest to understand what lies beyond our planet and the secrets held within our minds.
+My curiosity extends to the cosmos, where I am fascinated by deep space and the origins of the universe. I am driven by the quest to understand what lies outside our vision, secrets beyond the observable universe, and the secrets held within our minds.
 
 
 ## 📊 GitHub Stats
